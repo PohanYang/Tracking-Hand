@@ -25,6 +25,7 @@ Figure 5. Features in Haar Cascade Classifier, in 1 is edge features, 2 is line 
 ![fig6](https://github.com/PohanYang/Tracking-Hand/blob/master/img/noface.png)  
 Use Haar Feature-based Cascade Classifier remove face from figure 4.  
   
+  
 Reference:  
 [1] Hand tracking and gesture recognition system for human-computer interaction using low-cost hardware <https://link.springer.com/article/10.1007/s11042-013-1501-1>  
 [2] Skin Detection using HSV color space - V. A. Oliveira, A. Conci  <http://webcache.googleusercontent.com/search?q=cache:http://www.matmidia.mat.puc-rio.br/sibgrapi/media/posters/59928.pdf&gws_rd=cr&ei=i87IWPa3LMuF8wWI05KgAw>  
